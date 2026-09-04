@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD Lifecycle"
+  short_description: "统一完成PRD创建、补全、红队评审与Codex执行规划"
+  default_prompt: "使用 $prd-lifecycle 判断当前 PRD 阶段，并按对应门禁完成创建、补全、评审或开发执行规划。"
